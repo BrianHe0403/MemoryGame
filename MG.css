@@ -1,0 +1,40 @@
+body {
+    background-color: aliceblue;
+}
+
+#bg {
+    width: 1500px;
+    height: 500px;
+    margin: 60px 200px 200px 200px;
+
+}
+
+
+
+
+#game div {
+    float: left;
+    border: 1px solid black;
+    width: 15%;
+    height: 200px;
+    margin: 30px;
+    border-radius: 10px;
+}
+
+#game h2 {
+    text-align: center;
+    color: antiquewhite;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.btn {
+    display: block;
+    margin: 1px auto;
+    color: lightpink;
+    height: 100px;
+    width: 300px;
+    font-size: 30px;
+    border-radius: 30px;
+    border-color: bisque;
+}
